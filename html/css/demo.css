@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+ 
+
+}
+nav {
+    display: inline-block;
+    
+   
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    justify-content: center;
+}
+nav a:hover {
+    background-color: rgb(146, 146, 140);
+  }
+.login-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+   margin-left: 60%;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.login-button:hover{
+    background-color: rgb(12, 12, 12);
+}
+.hero {
+    text-align: center;
+    padding: 100px 0;
+    background-size: 100%;
+    background-position: center;
+    color: #ffffff;
+    background-image: url('../pic/wallpapersden.com_topography-abstract-black-texture_3840x2160.jpg');
+}
+.pic{
+    padding-left: 25%;
+    width: 50%;
+    height: 200px;
+}
+.intro {
+    padding: 50px 20px;
+    text-align: center;
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin: 0px 350px 100px;
+    background-color: #7a7a7a;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th, td:hover {
+    background-color: #ffffff;
+}
+th {
+    background-color: #f2f2f2;
+}
+footer {
+    background-color: #000000;
+    margin: 100px 0px 0px 0px;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+.social-icons {
+    margin-bottom: 20px;
+    color: #000;
+}
+.subscription-form {
+    margin-top: 20px;
+}
+.services{
+    text-align: center;
+}
+.col{
+    color: #fff;
+}
